@@ -1,4 +1,4 @@
-/data
-/build 
-/logs
-/tmp
+/data/ 
+/build/
+/logs/
+/tmp/
